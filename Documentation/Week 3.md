@@ -24,7 +24,7 @@ The following are the essential data cleaning operations demonstrated to ensure 
 
 ## **Removing Duplicates**
 
-This command identifies and removes all duplicate rows from the DataFrame, keeping the first occurrence.df \= df.drop\_duplicates()
+This command identifies and removes all duplicate rows from the DataFrame, keeping the first occurrence. df \= df.drop\_duplicates()
 
 ## **Text Data Cleaning (Last Name Example)**
 
@@ -32,19 +32,19 @@ Standardizing text fields is crucial for accurate analysis. These commands focus
 
 ### **Removing Leading and Trailing Whitespace**
 
-The `.str.strip()` method removes any unwanted spaces from the beginning or end of the text strings in the column.df\["Last\_Name"\] \= df\["Last\_Name"\].str.strip()
+The `str.strip()` method removes any unwanted spaces from the beginning or end of the text strings in the column. df\["Last\_Name"\] \= df\["Last\_Name"\].str.strip()
 
 ### **Removing Specific Unwanted Characters**
 
-The `.str.strip()` method can also remove specified leading/trailing characters (e.g., slashes, periods, or underscores) from the text strings.df\["Last\_Name"\] \= df\["Last\_Name"\].str.strip("/.\_")
+The `str.strip()` method can also remove specified leading/trailing characters (e.g., slashes, periods, or underscores) from the text strings. df\["Last\_Name"\] \= df\["Last\_Name"\].str.strip("/.\_")
 
 ### **Global Text Replacement**
 
-The `.str.replace()` method is used to substitute specific substrings with new values across a text column.
+The `str.replace()` method is used to substitute specific substrings with new values across a text column.
 
 ## **Removing Unnecessary Columns**
 
-To streamline the dataset and focus on relevant variables, columns not needed for analysis are dropped.df \= df.drop(columns=\["Not\_Useful\_Column"\])
+To streamline the dataset and focus on relevant variables, columns not needed for analysis are dropped. df \= df.drop(columns=\["Not\_Useful\_Column"\])
 
 ## **Understanding Business Context Before Analysis**
 
