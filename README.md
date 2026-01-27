@@ -8,13 +8,19 @@ The dataset used in this project is sourced from the FEMA (Federal Emergency Man
 
 ## KPI Used
 -
+
 ## Dashboard Pages
 - State-wise Disaster Analysis
 - Disaster Type Analysis
+  
 ## Key Insights
 - Certain states experience a higher number of disaster declarations compared to others.
 - Floods, storms, fires, and hurricanes are among the most frequently declared disaster types.
 - A trend in disaster declarations is observed over the years.
+  
+## Recommendations
+- Enhance disaster preparedness and response strategies in highly affected states.
+- Allocate resources based on historical disaster trends.
 
 ## Tools Used
 - Power BI (Data cleaning and visualization)
