@@ -2,6 +2,15 @@
 
 This document summarizes the key concepts discussed in Week 5 regarding data modelling, specifically focusing on Fact Tables, Dimension Tables, and the types of relationships between them.
 
+#Types of Data
+
+**Categorical Data**: Data that represents categories or groups (e.g., Gender, Country, Product Category).
+
+**Numerical Data**: Data represented by numbers that can be measured or counted (e.g., Sales Amount, Age, Quantity).
+
+**Time-Based Data**: Data related to dates and time, used to analyze trends over periods (e.g., Order Date, Month, Year, Timestamp).
+
+
 # **1\. Introduction to Data modelling**
 
 Data modelling is the process of creating a visual or conceptual representation of either a whole information system or parts of it to communicate connections between data points and structures. It helps in defining business requirements, improving data quality, and structuring the data for efficient storage and retrieval (especially in data warehouses).
