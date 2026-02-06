@@ -67,8 +67,6 @@ The `CALCULATE` function is one of the most powerful functions in DAX. It modifi
 
 `Sales target = IF([Total Profit] > 50000, "Passed", "Failed")`
 
-| Aspect | Description |
-| :---- | :---- |
 | **How it works:** | Checks whether total profit exceeds 50,000. Returns Passed if true, otherwise Failed. |
 | **Why used:** | Implements business rules directly in the model. Quickly identifies high-performing employees. |
 
