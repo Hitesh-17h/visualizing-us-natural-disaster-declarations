@@ -7,14 +7,15 @@ Natural disasters significantly impact lives, infrastructure, and economies. The
 The dataset used in this project is sourced from the FEMA (Federal Emergency Management Agency) website. It contains records of natural disaster declarations in the United States, including information such as disaster type, affected state and declaration date. The raw dataset was cleaned and transformed using Power BI for effective visualization.
 
 ## KPI Used
--The following KPIs were developed for analysis:
-  Total Disaster Declarations
-  Total Public Assistance (PA) Declarations
-  Total Individual Assistance (IA) Declarations
-  Year-over-Year (YoY) Growth Rate
-  Top Affected States
-  Most Frequent Disaster Type
-These KPIs provide insights into frequency, distribution, and long-term disaster trends.
+## 4. Key Performance Indicators (KPIs)
+The following KPIs were developed for analysis:
+- Total Disaster Declarations  
+- Total Public Assistance (PA) Declarations  
+- Total Individual Assistance (IA) Declarations  
+- Year-over-Year (YoY) Growth Rate  
+- Top Affected States  
+- Most Frequent Disaster Type  
+These KPIs provide insights into disaster frequency, distribution, and long-term trends.
 
 ## Dashboard Pages
 - State-wise Disaster Analysis
