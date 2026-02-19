@@ -35,9 +35,9 @@ Features include:
 ### Disaster Type Analysis
 This dashboard analyzes the distribution and trends of disaster categories.
 Features include:
-- Frequency distribution of disaster types  
-- Trend of major disaster types over time  
-- Percentage contribution of each disaster type  
+- Public vs Individual Assistance distribution 
+- Top disaster types receiving Public Assistance
+- Contribution of each disaster type 
 - Comparative analysis between disaster categories  
 ---
 ## Key Insights
